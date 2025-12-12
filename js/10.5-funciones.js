@@ -20,3 +20,6 @@ iniciarSesion=login.iniciarSesion('juan123', 'miContrasenaSegura');
 cerrarSesion=login.cerrarSesion('juan123');
 cambiarContrasena=login.cambiarContrasena('juan123', 'nuevaContrasenaSegura');
 recuperarContrasena=login.recuperarContrasena('juan123');
+
+
+const suma = () => console.log(2 + 2);
